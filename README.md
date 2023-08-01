@@ -15,7 +15,8 @@ To replicate the visualization, you need the following software and R packages i
 * dplyr 
 * Other necessary packages as mentioned in the R script
 
-##Animation Details
+## Animation Details
+
 The animated visualization showcases the daily trends in crude oil prices in USD from 2009 to 2023. Each frame of the animation represents a day, displaying the corresponding prices. The animation evolves over time, allowing you to observe fluctuations, seasonality, and potential long-term trends in the crude oil market.
 
 
