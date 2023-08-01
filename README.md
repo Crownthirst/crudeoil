@@ -15,13 +15,7 @@ To replicate the visualization, you need the following software and R packages i
 * dplyr 
 * Other necessary packages as mentioned in the R script
 
-## Instructions
-Clone or download this repository to your local machine.
-Ensure you have the required software and packages installed (listed under "Requirements").
-Open R or RStudio and set the working directory to the location of the cloned/downloaded repository.
-Run the R script `Crude.R`. This script contains all the code needed to preprocess the data and generate the animated visualization.
-Once the script is executed, the animated visualization will be saved in the specified output format (e.g., GIF) in the same working directory.
-Animation Details
+##Animation Details
 The animated visualization showcases the daily trends in crude oil prices in USD from 2009 to 2023. Each frame of the animation represents a day, displaying the corresponding prices. The animation evolves over time, allowing you to observe fluctuations, seasonality, and potential long-term trends in the crude oil market.
 
 
