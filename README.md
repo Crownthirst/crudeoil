@@ -1,4 +1,3 @@
-# crudeoil
 
 # Crude Oil Data Visualization using gganimate in R
 ## Overview
