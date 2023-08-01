@@ -32,4 +32,4 @@ Feedback and contributions are always welcome! If you have any suggestions for i
 
 Happy Visualizing! 📈🎉
 
-[Croownthirst]
+[Crownthirst]
