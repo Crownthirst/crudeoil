@@ -42,6 +42,6 @@ co <- ggplot(c, aes(date, crude_oil_price_in_usd))+
         axis.title = element_text(size = 20),
         axis.text = element_text(size = 15))
 
-crude <- animate(co, width = 900, duration = 30, fps = 20, 
+crude <- animate(co, width = 900, duration = 50, fps = 20, 
                  renderer = gifski_renderer(), start_pause = 10, 
                  end_pause = 20, device = "png")
