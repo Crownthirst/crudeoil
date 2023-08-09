@@ -26,3 +26,5 @@ Feedback and contributions are always welcome! If you have any suggestions for i
 Happy Visualizing! 📈🎉
 
 [Crownthirst]
+
+https://github.com/Crownthirst/crudeoil/blob/main/crude.R
